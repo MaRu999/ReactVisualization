@@ -1,0 +1,8 @@
+#gitignore fore react-project
+node_modules
+package-lock.json
+.idea
+dist
+coverage
+reports
+chromedriver.log
